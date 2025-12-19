@@ -15,7 +15,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.1400.2.941",
+    "IDEVersion":"2024.14.2.212",
   },
   "name":"gamejam pico8",
   "resources":[
@@ -23,10 +23,13 @@
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"blocky_ground","path":"sprites/blocky_ground/blocky_ground.yy",},},
+    {"id":{"name":"blocky_ground2","path":"sprites/blocky_ground2/blocky_ground2.yy",},},
+    {"id":{"name":"blocky_step_left","path":"sprites/blocky_step_left/blocky_step_left.yy",},},
+    {"id":{"name":"blocky_step_right","path":"sprites/blocky_step_right/blocky_step_right.yy",},},
     {"id":{"name":"Jonathan","path":"sprites/Jonathan/Jonathan.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
-    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
